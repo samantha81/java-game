@@ -4,7 +4,7 @@ A two-player, local co-op platformer built with **Java** and **JavaFX**. Two cat
 
 Nobody can clear a match alone. You have to stack, carry, boost and wait for each other, and you share the keys and footballs that unlock each level's portal.
 
-> Group 7 coursework project, developed for an object-oriented programming assignment.
+> Coursework project, developed for an object-oriented programming assignment.
 
 ---
 
